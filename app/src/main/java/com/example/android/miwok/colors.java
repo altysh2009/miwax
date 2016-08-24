@@ -13,7 +13,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-
+//qwjdqwd
 public class colors extends AppCompatActivity {
 MediaPlayer media;
     int seek=0;
