@@ -14,6 +14,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 //qwjdqwd
+//ad
 public class colors extends AppCompatActivity {
 MediaPlayer media;
     int seek=0;
